@@ -1,0 +1,160 @@
+
+body {
+	font-family: Gotham;
+	color: aliceblue;
+	font-size: 14px;
+	background-color: black;
+}
+
+header{
+	padding: 20px 0;
+}
+
+#s1{ 
+background-image: url(../img/IMG_0466.JPG);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+padding: 200px ;
+
+}
+
+#s1 h1{
+	font-size: 80px;
+	font-weight: 600;
+	color: white;
+	
+}
+
+#s1 p{
+	font-size: 20px;
+}
+
+
+.btn-light{
+	background-color: transparent;
+	border: 1px solid #fff;
+	color: #fff;
+	border-radius: 0;
+	padding: 10px 20px;
+	font-weight: 600;
+	
+}
+
+.btn-dark{
+	background-color: transparent;
+	border: 1px solid #fff;
+	color: #fff;
+	border-radius: 0;
+	padding: 10px 20px;
+	font-weight: 600;
+	align-content: center;
+	
+}
+
+#S2{
+	margin: 60px 0;
+	color: white;
+}
+#S2 h2{
+	text-align: center;
+	font-size: 40px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; 
+}
+
+#S2 p{
+	font-family: helvetica;
+}
+#parallax{
+	background-image:url(../img/1C3A9902.jpg);
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 250px 0;
+}
+#parallax h3{
+	text-align: center;
+	color: whitesmoke;
+	font-size: 40px;
+	
+}
+
+.icono{
+	font-size: 30px;
+}
+.app-carousel {
+    padding: 0 6%;
+}
+
+.app-carousel .owl-dots {
+    text-align: center;
+}
+.app-carousel .owl-dot {
+    height: 11px;
+    width: 11px;
+    border: 2px solid #a49fba !important;
+    border-radius: 50%;
+    margin: 35px 6px;
+}
+.app-carousel .owl-dot.active {
+    background-color: #fff;
+    border: 0 !important;
+}
+.info-scroll .fas{
+	font-size: 45px;
+	margin-bottom: 30px;
+}
+#message {
+	padding: 50px 0;
+	text-align: center;
+}
+
+
+#message h2{
+	font-size: 20px;
+}
+
+#message h2 a{
+	margin-left: 30px;
+}
+
+#footer {
+	background-color: #0c0c0c;
+	padding: 50px 0;
+	width: 100%;
+}
+
+#footer h3{
+	font-size: 20px 0;
+	margin-bottom: 20px;
+	text-align: center;
+	color:dimgrey;
+}
+
+#footer a,
+#copyright a{
+	color: white;
+	text-align: center;
+}
+
+
+#footer a:hover,
+#copyright a:hover{
+	color:#777;
+}
+
+
+#copyright{
+	padding: 25px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
